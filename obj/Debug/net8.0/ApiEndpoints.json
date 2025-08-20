@@ -1,0 +1,298 @@
+[
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "aboutGet",
+    "RelativePath": "api/Home/about",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "aboutSet",
+    "RelativePath": "api/Home/about",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Head",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Para",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AboutImg",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "img",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "acCourses",
+    "RelativePath": "api/Home/acCourses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "EsId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CourseImg",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Duration",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Popular",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subjects",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Es.EsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Es.CName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Es.CImg",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Es.Courses",
+        "Type": "System.Collections.Generic.ICollection\u00601[[Online_Courses.Models.Course, Online_Courses, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "img",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "getacCourses",
+    "RelativePath": "api/Home/acCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "getData",
+    "RelativePath": "api/Home/crousel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "setData",
+    "RelativePath": "api/Home/crousel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Head1",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Head2",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "Login",
+    "RelativePath": "api/Home/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "Online_Courses.Models.Register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "Logout",
+    "RelativePath": "api/Home/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "Register",
+    "RelativePath": "api/Home/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Profileimg",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "City",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Qualification",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "img",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "Getsubject",
+    "RelativePath": "api/Home/subject",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "Setsubject",
+    "RelativePath": "api/Home/subjects",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CImg",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Courses",
+        "Type": "System.Collections.Generic.ICollection\u00601[[Online_Courses.Models.Course, Online_Courses, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "img",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

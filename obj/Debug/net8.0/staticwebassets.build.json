@@ -1,0 +1,2391 @@
+{
+  "Version": 1,
+  "Hash": "6hXDsChdc12+p1EMVPer+n4A5kzgVX/UaFGqnZh2p5U=",
+  "Source": "Online_Courses",
+  "BasePath": "_content/Online_Courses",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Online_Courses\\wwwroot",
+      "Source": "Online_Courses",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\057926ce-9849-46b5-ad82-77596ce5a7d0.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/057926ce-9849-46b5-ad82-77596ce5a7d0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lftg8jwl66",
+      "Integrity": "/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\057926ce-9849-46b5-ad82-77596ce5a7d0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\0ea7c9d4-ef0c-4eb2-b3f7-1d222278346f.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/0ea7c9d4-ef0c-4eb2-b3f7-1d222278346f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4trkpclrit",
+      "Integrity": "yEJix08GVdUY4MHT8rPxDEwE0kzGz5/2TMr6d8vebXU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\0ea7c9d4-ef0c-4eb2-b3f7-1d222278346f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\130d902c-2f84-4f39-8dfb-2db31ae2293f.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/130d902c-2f84-4f39-8dfb-2db31ae2293f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f41yjqpud3",
+      "Integrity": "L+WwwQ0HSAIamK/Yh4KftH0nq7aLHgZwuVIii7eGRRw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\130d902c-2f84-4f39-8dfb-2db31ae2293f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\28501565-7994-418e-8817-d20851a8e952.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/28501565-7994-418e-8817-d20851a8e952#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qc5ztmdl6",
+      "Integrity": "qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\28501565-7994-418e-8817-d20851a8e952.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\28c1b1d9-d1aa-4f64-a712-7ae0dc30b6df.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/28c1b1d9-d1aa-4f64-a712-7ae0dc30b6df#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jk1b7jcm5w",
+      "Integrity": "s6+YAtypeutAKSyW/g0QYLWAo0L4LYJrNkc2BcBP2NM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\28c1b1d9-d1aa-4f64-a712-7ae0dc30b6df.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\30166c8a-0b90-4549-bad3-883f7ae1e640.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/30166c8a-0b90-4549-bad3-883f7ae1e640#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qc5ztmdl6",
+      "Integrity": "qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\30166c8a-0b90-4549-bad3-883f7ae1e640.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\3aeca765-ca2b-4764-9046-c790a6325c34.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/3aeca765-ca2b-4764-9046-c790a6325c34#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iz9wiihvbj",
+      "Integrity": "clvb8xSxh2z3UQF08jKSjMMl1m7fb+PHYmBpLfV6QIM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\3aeca765-ca2b-4764-9046-c790a6325c34.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\56a0ac99-05f1-4b86-9501-0706e848f7fd.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/56a0ac99-05f1-4b86-9501-0706e848f7fd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlslrc59x7",
+      "Integrity": "Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\56a0ac99-05f1-4b86-9501-0706e848f7fd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\5cbd8d54-c7bf-43dc-90b6-e437561a1ba0.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/5cbd8d54-c7bf-43dc-90b6-e437561a1ba0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlslrc59x7",
+      "Integrity": "Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\5cbd8d54-c7bf-43dc-90b6-e437561a1ba0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\638ee90c-6e68-4647-bf3e-6f01c80aae02.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/638ee90c-6e68-4647-bf3e-6f01c80aae02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qc5ztmdl6",
+      "Integrity": "qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\638ee90c-6e68-4647-bf3e-6f01c80aae02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\66a796ae-11a6-44d0-8a17-0c8c250c80c3.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/66a796ae-11a6-44d0-8a17-0c8c250c80c3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlslrc59x7",
+      "Integrity": "Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\66a796ae-11a6-44d0-8a17-0c8c250c80c3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\6e833e20-127e-4937-be5b-df9604863cc0.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/6e833e20-127e-4937-be5b-df9604863cc0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2wlnu0dg2q",
+      "Integrity": "boOc77Fcue6i0hM8UZdwMu8lFCRGsW1XNCc1FVvrc8w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\6e833e20-127e-4937-be5b-df9604863cc0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\76534106-7a22-4c3a-b5ab-c21a1da3508b.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/76534106-7a22-4c3a-b5ab-c21a1da3508b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qc5ztmdl6",
+      "Integrity": "qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\76534106-7a22-4c3a-b5ab-c21a1da3508b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\774d8307-a1cb-4222-827f-4060be265b90.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/774d8307-a1cb-4222-827f-4060be265b90#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlslrc59x7",
+      "Integrity": "Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\774d8307-a1cb-4222-827f-4060be265b90.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\7eb5d4fc-05ce-488d-9611-f1ddd8725336.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/7eb5d4fc-05ce-488d-9611-f1ddd8725336#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlslrc59x7",
+      "Integrity": "Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\7eb5d4fc-05ce-488d-9611-f1ddd8725336.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\80025463-7cd7-4821-b488-97719caf05ef.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/80025463-7cd7-4821-b488-97719caf05ef#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "13iyl29nlj",
+      "Integrity": "DV1obZVynzE/AMOSesY5clLVYsLonum7k9vpV6IUs94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\80025463-7cd7-4821-b488-97719caf05ef.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\81c864d9-c9d4-4c94-85a8-944360b9df8b.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/81c864d9-c9d4-4c94-85a8-944360b9df8b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wl4i861kb4",
+      "Integrity": "LCjP3OZXxCn1KnJGqLaV3c3GYdAFYTYyik2JctEJpj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\81c864d9-c9d4-4c94-85a8-944360b9df8b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\b22e9296-38f8-41ab-988b-326686d5c7c1.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/b22e9296-38f8-41ab-988b-326686d5c7c1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iou9x5n4qb",
+      "Integrity": "bpdMttxY79vStErtDV7PPD46BcGOBj0WqD68Ye6tC8w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\b22e9296-38f8-41ab-988b-326686d5c7c1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\c7e05196-b2a1-4921-b1e1-6a141ca51e57.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/c7e05196-b2a1-4921-b1e1-6a141ca51e57#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lftg8jwl66",
+      "Integrity": "/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\c7e05196-b2a1-4921-b1e1-6a141ca51e57.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\cb404284-0bd2-4b70-8837-cb259b0ffa55.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/cb404284-0bd2-4b70-8837-cb259b0ffa55#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlslrc59x7",
+      "Integrity": "Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\cb404284-0bd2-4b70-8837-cb259b0ffa55.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\cb87eebe-ce1a-465d-a815-c9ccaa942bc2.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/cb87eebe-ce1a-465d-a815-c9ccaa942bc2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t0chptqa8v",
+      "Integrity": "HcS7IRC+06AnNOCQOmbuFydRpiucoVUjHYEUuULcrTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\cb87eebe-ce1a-465d-a815-c9ccaa942bc2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\dfbf69ba-4e6d-4d5e-ab0f-0fe74ecc165f.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/dfbf69ba-4e6d-4d5e-ab0f-0fe74ecc165f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x9z6hgl7pt",
+      "Integrity": "FfmvAUbu/j0plv7Byj6iw3G751ruzwvOmqhPbDMBnCM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\dfbf69ba-4e6d-4d5e-ab0f-0fe74ecc165f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\e0c287fb-0906-4c86-8cc5-95430ecb9468.jpg",
+      "SourceId": "Online_Courses",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\",
+      "BasePath": "_content/Online_Courses",
+      "RelativePath": "Uploads/e0c287fb-0906-4c86-8cc5-95430ecb9468#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7m06yxn87m",
+      "Integrity": "YcEZ+fiZ8bTVTwnPMHkn49FzJh3TQfFQdN9kcBoC6ds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\e0c287fb-0906-4c86-8cc5-95430ecb9468.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Uploads/057926ce-9849-46b5-ad82-77596ce5a7d0.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\057926ce-9849-46b5-ad82-77596ce5a7d0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 07:10:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/057926ce-9849-46b5-ad82-77596ce5a7d0.lftg8jwl66.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\057926ce-9849-46b5-ad82-77596ce5a7d0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 07:10:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lftg8jwl66"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/057926ce-9849-46b5-ad82-77596ce5a7d0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/0ea7c9d4-ef0c-4eb2-b3f7-1d222278346f.4trkpclrit.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\0ea7c9d4-ef0c-4eb2-b3f7-1d222278346f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEJix08GVdUY4MHT8rPxDEwE0kzGz5/2TMr6d8vebXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 06:39:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4trkpclrit"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/0ea7c9d4-ef0c-4eb2-b3f7-1d222278346f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEJix08GVdUY4MHT8rPxDEwE0kzGz5/2TMr6d8vebXU="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/0ea7c9d4-ef0c-4eb2-b3f7-1d222278346f.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\0ea7c9d4-ef0c-4eb2-b3f7-1d222278346f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEJix08GVdUY4MHT8rPxDEwE0kzGz5/2TMr6d8vebXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 06:39:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEJix08GVdUY4MHT8rPxDEwE0kzGz5/2TMr6d8vebXU="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/130d902c-2f84-4f39-8dfb-2db31ae2293f.f41yjqpud3.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\130d902c-2f84-4f39-8dfb-2db31ae2293f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L+WwwQ0HSAIamK/Yh4KftH0nq7aLHgZwuVIii7eGRRw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:02:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f41yjqpud3"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/130d902c-2f84-4f39-8dfb-2db31ae2293f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L+WwwQ0HSAIamK/Yh4KftH0nq7aLHgZwuVIii7eGRRw="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/130d902c-2f84-4f39-8dfb-2db31ae2293f.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\130d902c-2f84-4f39-8dfb-2db31ae2293f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L+WwwQ0HSAIamK/Yh4KftH0nq7aLHgZwuVIii7eGRRw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:02:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L+WwwQ0HSAIamK/Yh4KftH0nq7aLHgZwuVIii7eGRRw="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/28501565-7994-418e-8817-d20851a8e952.0qc5ztmdl6.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\28501565-7994-418e-8817-d20851a8e952.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 06:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qc5ztmdl6"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/28501565-7994-418e-8817-d20851a8e952.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/28501565-7994-418e-8817-d20851a8e952.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\28501565-7994-418e-8817-d20851a8e952.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 06:59:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/28c1b1d9-d1aa-4f64-a712-7ae0dc30b6df.jk1b7jcm5w.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\28c1b1d9-d1aa-4f64-a712-7ae0dc30b6df.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6+YAtypeutAKSyW/g0QYLWAo0L4LYJrNkc2BcBP2NM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 11:37:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jk1b7jcm5w"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/28c1b1d9-d1aa-4f64-a712-7ae0dc30b6df.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6+YAtypeutAKSyW/g0QYLWAo0L4LYJrNkc2BcBP2NM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/28c1b1d9-d1aa-4f64-a712-7ae0dc30b6df.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\28c1b1d9-d1aa-4f64-a712-7ae0dc30b6df.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6+YAtypeutAKSyW/g0QYLWAo0L4LYJrNkc2BcBP2NM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 11:37:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6+YAtypeutAKSyW/g0QYLWAo0L4LYJrNkc2BcBP2NM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/30166c8a-0b90-4549-bad3-883f7ae1e640.0qc5ztmdl6.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\30166c8a-0b90-4549-bad3-883f7ae1e640.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 06:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qc5ztmdl6"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/30166c8a-0b90-4549-bad3-883f7ae1e640.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/30166c8a-0b90-4549-bad3-883f7ae1e640.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\30166c8a-0b90-4549-bad3-883f7ae1e640.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 06:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/3aeca765-ca2b-4764-9046-c790a6325c34.iz9wiihvbj.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\3aeca765-ca2b-4764-9046-c790a6325c34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19634"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"clvb8xSxh2z3UQF08jKSjMMl1m7fb+PHYmBpLfV6QIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:05:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iz9wiihvbj"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/3aeca765-ca2b-4764-9046-c790a6325c34.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-clvb8xSxh2z3UQF08jKSjMMl1m7fb+PHYmBpLfV6QIM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/3aeca765-ca2b-4764-9046-c790a6325c34.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\3aeca765-ca2b-4764-9046-c790a6325c34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19634"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"clvb8xSxh2z3UQF08jKSjMMl1m7fb+PHYmBpLfV6QIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:05:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-clvb8xSxh2z3UQF08jKSjMMl1m7fb+PHYmBpLfV6QIM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/56a0ac99-05f1-4b86-9501-0706e848f7fd.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\56a0ac99-05f1-4b86-9501-0706e848f7fd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:08:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/56a0ac99-05f1-4b86-9501-0706e848f7fd.mlslrc59x7.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\56a0ac99-05f1-4b86-9501-0706e848f7fd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:08:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlslrc59x7"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/56a0ac99-05f1-4b86-9501-0706e848f7fd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/5cbd8d54-c7bf-43dc-90b6-e437561a1ba0.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\5cbd8d54-c7bf-43dc-90b6-e437561a1ba0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/5cbd8d54-c7bf-43dc-90b6-e437561a1ba0.mlslrc59x7.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\5cbd8d54-c7bf-43dc-90b6-e437561a1ba0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlslrc59x7"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/5cbd8d54-c7bf-43dc-90b6-e437561a1ba0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/638ee90c-6e68-4647-bf3e-6f01c80aae02.0qc5ztmdl6.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\638ee90c-6e68-4647-bf3e-6f01c80aae02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qc5ztmdl6"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/638ee90c-6e68-4647-bf3e-6f01c80aae02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/638ee90c-6e68-4647-bf3e-6f01c80aae02.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\638ee90c-6e68-4647-bf3e-6f01c80aae02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/66a796ae-11a6-44d0-8a17-0c8c250c80c3.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\66a796ae-11a6-44d0-8a17-0c8c250c80c3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:19:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/66a796ae-11a6-44d0-8a17-0c8c250c80c3.mlslrc59x7.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\66a796ae-11a6-44d0-8a17-0c8c250c80c3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:19:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlslrc59x7"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/66a796ae-11a6-44d0-8a17-0c8c250c80c3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/6e833e20-127e-4937-be5b-df9604863cc0.2wlnu0dg2q.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\6e833e20-127e-4937-be5b-df9604863cc0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11811"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"boOc77Fcue6i0hM8UZdwMu8lFCRGsW1XNCc1FVvrc8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:09:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2wlnu0dg2q"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/6e833e20-127e-4937-be5b-df9604863cc0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-boOc77Fcue6i0hM8UZdwMu8lFCRGsW1XNCc1FVvrc8w="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/6e833e20-127e-4937-be5b-df9604863cc0.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\6e833e20-127e-4937-be5b-df9604863cc0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11811"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"boOc77Fcue6i0hM8UZdwMu8lFCRGsW1XNCc1FVvrc8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:09:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-boOc77Fcue6i0hM8UZdwMu8lFCRGsW1XNCc1FVvrc8w="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/76534106-7a22-4c3a-b5ab-c21a1da3508b.0qc5ztmdl6.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\76534106-7a22-4c3a-b5ab-c21a1da3508b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 06:52:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qc5ztmdl6"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/76534106-7a22-4c3a-b5ab-c21a1da3508b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/76534106-7a22-4c3a-b5ab-c21a1da3508b.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\76534106-7a22-4c3a-b5ab-c21a1da3508b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 06:52:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAZ7O7UMJ7kxP3UUCFm1UVvl686SiHR6B9d1W6LnNmk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/774d8307-a1cb-4222-827f-4060be265b90.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\774d8307-a1cb-4222-827f-4060be265b90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/774d8307-a1cb-4222-827f-4060be265b90.mlslrc59x7.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\774d8307-a1cb-4222-827f-4060be265b90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlslrc59x7"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/774d8307-a1cb-4222-827f-4060be265b90.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/7eb5d4fc-05ce-488d-9611-f1ddd8725336.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\7eb5d4fc-05ce-488d-9611-f1ddd8725336.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:00:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/7eb5d4fc-05ce-488d-9611-f1ddd8725336.mlslrc59x7.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\7eb5d4fc-05ce-488d-9611-f1ddd8725336.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:00:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlslrc59x7"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/7eb5d4fc-05ce-488d-9611-f1ddd8725336.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/80025463-7cd7-4821-b488-97719caf05ef.13iyl29nlj.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\80025463-7cd7-4821-b488-97719caf05ef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DV1obZVynzE/AMOSesY5clLVYsLonum7k9vpV6IUs94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:09:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "13iyl29nlj"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/80025463-7cd7-4821-b488-97719caf05ef.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DV1obZVynzE/AMOSesY5clLVYsLonum7k9vpV6IUs94="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/80025463-7cd7-4821-b488-97719caf05ef.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\80025463-7cd7-4821-b488-97719caf05ef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DV1obZVynzE/AMOSesY5clLVYsLonum7k9vpV6IUs94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:09:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DV1obZVynzE/AMOSesY5clLVYsLonum7k9vpV6IUs94="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/81c864d9-c9d4-4c94-85a8-944360b9df8b.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\81c864d9-c9d4-4c94-85a8-944360b9df8b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LCjP3OZXxCn1KnJGqLaV3c3GYdAFYTYyik2JctEJpj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:24:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LCjP3OZXxCn1KnJGqLaV3c3GYdAFYTYyik2JctEJpj0="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/81c864d9-c9d4-4c94-85a8-944360b9df8b.wl4i861kb4.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\81c864d9-c9d4-4c94-85a8-944360b9df8b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LCjP3OZXxCn1KnJGqLaV3c3GYdAFYTYyik2JctEJpj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 08:24:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wl4i861kb4"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/81c864d9-c9d4-4c94-85a8-944360b9df8b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LCjP3OZXxCn1KnJGqLaV3c3GYdAFYTYyik2JctEJpj0="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/b22e9296-38f8-41ab-988b-326686d5c7c1.iou9x5n4qb.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\b22e9296-38f8-41ab-988b-326686d5c7c1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bpdMttxY79vStErtDV7PPD46BcGOBj0WqD68Ye6tC8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iou9x5n4qb"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/b22e9296-38f8-41ab-988b-326686d5c7c1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bpdMttxY79vStErtDV7PPD46BcGOBj0WqD68Ye6tC8w="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/b22e9296-38f8-41ab-988b-326686d5c7c1.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\b22e9296-38f8-41ab-988b-326686d5c7c1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bpdMttxY79vStErtDV7PPD46BcGOBj0WqD68Ye6tC8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bpdMttxY79vStErtDV7PPD46BcGOBj0WqD68Ye6tC8w="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/c7e05196-b2a1-4921-b1e1-6a141ca51e57.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\c7e05196-b2a1-4921-b1e1-6a141ca51e57.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 08:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/c7e05196-b2a1-4921-b1e1-6a141ca51e57.lftg8jwl66.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\c7e05196-b2a1-4921-b1e1-6a141ca51e57.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 08:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lftg8jwl66"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/c7e05196-b2a1-4921-b1e1-6a141ca51e57.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5IxuZVa4czzkEG8X+DLahOvdKB03L/0Q5VBqV2200g="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/cb404284-0bd2-4b70-8837-cb259b0ffa55.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\cb404284-0bd2-4b70-8837-cb259b0ffa55.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/cb404284-0bd2-4b70-8837-cb259b0ffa55.mlslrc59x7.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\cb404284-0bd2-4b70-8837-cb259b0ffa55.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlslrc59x7"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/cb404284-0bd2-4b70-8837-cb259b0ffa55.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr8bznkB9lFFym5+T+5wFfA4SRLFgjRQuKRgy0+LP78="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/cb87eebe-ce1a-465d-a815-c9ccaa942bc2.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\cb87eebe-ce1a-465d-a815-c9ccaa942bc2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HcS7IRC+06AnNOCQOmbuFydRpiucoVUjHYEUuULcrTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 12:26:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HcS7IRC+06AnNOCQOmbuFydRpiucoVUjHYEUuULcrTE="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/cb87eebe-ce1a-465d-a815-c9ccaa942bc2.t0chptqa8v.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\cb87eebe-ce1a-465d-a815-c9ccaa942bc2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HcS7IRC+06AnNOCQOmbuFydRpiucoVUjHYEUuULcrTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 12:26:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t0chptqa8v"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/cb87eebe-ce1a-465d-a815-c9ccaa942bc2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HcS7IRC+06AnNOCQOmbuFydRpiucoVUjHYEUuULcrTE="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/dfbf69ba-4e6d-4d5e-ab0f-0fe74ecc165f.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\dfbf69ba-4e6d-4d5e-ab0f-0fe74ecc165f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FfmvAUbu/j0plv7Byj6iw3G751ruzwvOmqhPbDMBnCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 07:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FfmvAUbu/j0plv7Byj6iw3G751ruzwvOmqhPbDMBnCM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/dfbf69ba-4e6d-4d5e-ab0f-0fe74ecc165f.x9z6hgl7pt.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\dfbf69ba-4e6d-4d5e-ab0f-0fe74ecc165f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FfmvAUbu/j0plv7Byj6iw3G751ruzwvOmqhPbDMBnCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 07:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x9z6hgl7pt"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/dfbf69ba-4e6d-4d5e-ab0f-0fe74ecc165f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FfmvAUbu/j0plv7Byj6iw3G751ruzwvOmqhPbDMBnCM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/e0c287fb-0906-4c86-8cc5-95430ecb9468.7m06yxn87m.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\e0c287fb-0906-4c86-8cc5-95430ecb9468.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YcEZ+fiZ8bTVTwnPMHkn49FzJh3TQfFQdN9kcBoC6ds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:09:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7m06yxn87m"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/e0c287fb-0906-4c86-8cc5-95430ecb9468.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcEZ+fiZ8bTVTwnPMHkn49FzJh3TQfFQdN9kcBoC6ds="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/e0c287fb-0906-4c86-8cc5-95430ecb9468.jpg",
+      "AssetFile": "C:\\Users\\Shoaib Rahmani\\source\\repos\\Online_Courses\\Online_Courses\\wwwroot\\Uploads\\e0c287fb-0906-4c86-8cc5-95430ecb9468.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YcEZ+fiZ8bTVTwnPMHkn49FzJh3TQfFQdN9kcBoC6ds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 07:09:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcEZ+fiZ8bTVTwnPMHkn49FzJh3TQfFQdN9kcBoC6ds="
+        }
+      ]
+    }
+  ]
+}
