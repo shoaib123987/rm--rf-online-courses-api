@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using System.Reflection;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Online_Courses.Helper;
@@ -28,7 +29,7 @@ namespace Online_Courses.Controllers
 
         [HttpPost("crousel")]
         [Consumes("multipart/form-data")]
-        public async Task<ActionResult> setData([FromForm] Crousel data,  IFormFile image)
+        public async Task<ActionResult> setData([FromForm] Crousel data, IFormFile image)
         {
             string folderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Uploads");
 
@@ -46,7 +47,7 @@ namespace Online_Courses.Controllers
 
         public async Task<ActionResult> aboutGet()
         {
-            var data=await db.Abouts.ToListAsync();
+            var data = await db.Abouts.ToListAsync();
             return Ok(data);
         }
 
@@ -55,14 +56,14 @@ namespace Online_Courses.Controllers
 
         public async Task<ActionResult> aboutSet([FromForm] About data, IFormFile img)
         {
-          
 
-                string folderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Uploads");
 
-                string imageName = await ImageHelper.UploadImageAsync(img, folderPath);
+            string folderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Uploads");
 
-                data.AboutImg = imageName;
-          
+            string imageName = await ImageHelper.UploadImageAsync(img, folderPath);
+
+            data.AboutImg = imageName;
+
 
             await db.Abouts.AddAsync(data);
             await db.SaveChangesAsync();
@@ -113,7 +114,7 @@ namespace Online_Courses.Controllers
             if (HttpContext.Session.GetString("userEmail") != null)
             {
                 HttpContext.Session.Clear(); // ✅ This clears all session data
-               
+
             }
 
             return Ok();
@@ -170,13 +171,53 @@ namespace Online_Courses.Controllers
             return Ok(data);
         }
 
-        [HttpGet("git")]
-        public async Task<ActionResult> git()
+
+
+        [HttpPost("coursevedio")]
+        [Consumes("multipart/form-data")]
+
+        public async Task<ActionResult> coursevedio([FromForm] CourseVideo data, IFormFile ved)
         {
-            var data = await db.Courses.ToListAsync();
+
+            string folderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Uploads");
+
+            string vdName = await ImageHelper.UploadImageAsync(ved, folderPath);
+
+            data.VideoPath = vdName;
+        
+            
+
+            await db.CourseVideos.AddAsync(data);
+            await db.SaveChangesAsync();
+            return Ok();
+
+        }
+
+
+        [HttpGet("coursevedio")]
+        public async Task<ActionResult> coursevedio()
+        {
+            var data = await db.CourseVideos.ToListAsync();
 
             return Ok(data);
         }
+
+
+        [HttpGet("coursevedio/{id}")]
+        public async Task<ActionResult> GetCourseVideosById(int id)
+        {
+            var data = await db.CourseVideos
+                               .Where(cv => cv.Id == id) // yaha `Id` tumhare model ka column hai
+                               .ToListAsync();
+
+            if (data == null || data.Count == 0)
+                return NotFound(new { message = "No videos found for this course id." });
+
+            return Ok(data);
+        }
+
+
+
 
     }
 }

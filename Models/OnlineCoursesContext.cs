@@ -19,6 +19,8 @@ public partial class OnlineCoursesContext : DbContext
 
     public virtual DbSet<Course> Courses { get; set; }
 
+    public virtual DbSet<CourseVideo> CourseVideos { get; set; }
+
     public virtual DbSet<Crousel> Crousels { get; set; }
 
     public virtual DbSet<ExploreSubject> ExploreSubjects { get; set; }
@@ -27,6 +29,7 @@ public partial class OnlineCoursesContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     { }
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -80,6 +83,29 @@ public partial class OnlineCoursesContext : DbContext
             entity.HasOne(d => d.Es).WithMany(p => p.Courses)
                 .HasForeignKey(d => d.EsId)
                 .HasConstraintName("FK__courses__es_id__5EBF139D");
+        });
+
+        modelBuilder.Entity<CourseVideo>(entity =>
+        {
+            entity.HasKey(e => e.CvId).HasName("PK__course_v__C36883E6BD64692F");
+
+            entity.ToTable("course_videos");
+
+            entity.Property(e => e.CvId).HasColumnName("cv_id");
+            entity.Property(e => e.Heading)
+                .IsUnicode(false)
+                .HasColumnName("heading");
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.Title)
+                .IsUnicode(false)
+                .HasColumnName("title");
+            entity.Property(e => e.VideoPath)
+                .IsUnicode(false)
+                .HasColumnName("video_path");
+
+            entity.HasOne(d => d.IdNavigation).WithMany(p => p.CourseVideos)
+                .HasForeignKey(d => d.Id)
+                .HasConstraintName("FK__course_video__id__6FE99F9F");
         });
 
         modelBuilder.Entity<Crousel>(entity =>

@@ -5,6 +5,16 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.Configure<IISServerOptions>(options =>
+{
+    options.MaxRequestBodySize = int.MaxValue; // Unlimited
+});
+
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.Limits.MaxRequestBodySize = int.MaxValue; // Unlimited
+});
+
 
 builder.Services.AddDistributedMemoryCache(); // For in-memory session storage
 
@@ -17,6 +27,13 @@ builder.Services.AddSession(options =>
 
 builder.Services.AddDbContext<OnlineCoursesContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+
+
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+    });
 
 builder.Services.AddCors(options =>
 {

@@ -89,6 +89,11 @@
         "IsRequired": false
       },
       {
+        "Name": "CourseVideos",
+        "Type": "System.Collections.Generic.ICollection\u00601[[Online_Courses.Models.CourseVideo, Online_Courses, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
         "Name": "Es.EsId",
         "Type": "System.Int32",
         "IsRequired": false
@@ -124,6 +129,133 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "coursevedio",
+    "RelativePath": "api/Home/coursevedio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CvId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "VideoPath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Heading",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.EsId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.CourseImg",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Duration",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Price",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Popular",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Subjects",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.CourseVideos",
+        "Type": "System.Collections.Generic.ICollection\u00601[[Online_Courses.Models.CourseVideo, Online_Courses, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Es.EsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Es.CName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Es.CImg",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdNavigation.Es.Courses",
+        "Type": "System.Collections.Generic.ICollection\u00601[[Online_Courses.Models.Course, Online_Courses, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ved",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "coursevedio",
+    "RelativePath": "api/Home/coursevedio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_Courses.Controllers.Home",
+    "Method": "GetCourseVideosById",
+    "RelativePath": "api/Home/coursevedio/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

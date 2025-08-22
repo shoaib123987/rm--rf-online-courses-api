@@ -19,5 +19,7 @@ public partial class Course
 
     public string? Subjects { get; set; }
 
+    public virtual ICollection<CourseVideo> CourseVideos { get; set; } = new List<CourseVideo>();
+
     public virtual ExploreSubject? Es { get; set; }
 }

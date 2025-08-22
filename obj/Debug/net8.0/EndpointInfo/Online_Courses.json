@@ -363,6 +363,12 @@
                   "Subjects": {
                     "type": "string"
                   },
+                  "CourseVideos": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/CourseVideo"
+                    }
+                  },
                   "Es.EsId": {
                     "type": "integer",
                     "format": "int32"
@@ -407,6 +413,9 @@
                 "Subjects": {
                   "style": "form"
                 },
+                "CourseVideos": {
+                  "style": "form"
+                },
                 "Es.EsId": {
                   "style": "form"
                 },
@@ -435,6 +444,184 @@
       "get": {
         "tags": [
           "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Home/coursevedio": {
+      "post": {
+        "tags": [
+          "Home"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "CvId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "VideoPath": {
+                    "type": "string"
+                  },
+                  "Heading": {
+                    "type": "string"
+                  },
+                  "Title": {
+                    "type": "string"
+                  },
+                  "IdNavigation.Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "IdNavigation.EsId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "IdNavigation.CourseImg": {
+                    "type": "string"
+                  },
+                  "IdNavigation.Duration": {
+                    "type": "string"
+                  },
+                  "IdNavigation.Price": {
+                    "type": "string"
+                  },
+                  "IdNavigation.Popular": {
+                    "type": "string"
+                  },
+                  "IdNavigation.Subjects": {
+                    "type": "string"
+                  },
+                  "IdNavigation.CourseVideos": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/CourseVideo"
+                    }
+                  },
+                  "IdNavigation.Es.EsId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "IdNavigation.Es.CName": {
+                    "type": "string"
+                  },
+                  "IdNavigation.Es.CImg": {
+                    "type": "string"
+                  },
+                  "IdNavigation.Es.Courses": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/Course"
+                    }
+                  },
+                  "ved": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "CvId": {
+                  "style": "form"
+                },
+                "Id": {
+                  "style": "form"
+                },
+                "VideoPath": {
+                  "style": "form"
+                },
+                "Heading": {
+                  "style": "form"
+                },
+                "Title": {
+                  "style": "form"
+                },
+                "IdNavigation.Id": {
+                  "style": "form"
+                },
+                "IdNavigation.EsId": {
+                  "style": "form"
+                },
+                "IdNavigation.CourseImg": {
+                  "style": "form"
+                },
+                "IdNavigation.Duration": {
+                  "style": "form"
+                },
+                "IdNavigation.Price": {
+                  "style": "form"
+                },
+                "IdNavigation.Popular": {
+                  "style": "form"
+                },
+                "IdNavigation.Subjects": {
+                  "style": "form"
+                },
+                "IdNavigation.CourseVideos": {
+                  "style": "form"
+                },
+                "IdNavigation.Es.EsId": {
+                  "style": "form"
+                },
+                "IdNavigation.Es.CName": {
+                  "style": "form"
+                },
+                "IdNavigation.Es.CImg": {
+                  "style": "form"
+                },
+                "IdNavigation.Es.Courses": {
+                  "style": "form"
+                },
+                "ved": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Home/coursevedio/{id}": {
+      "get": {
+        "tags": [
+          "Home"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -478,8 +665,41 @@
             "type": "string",
             "nullable": true
           },
+          "courseVideos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/CourseVideo"
+            },
+            "nullable": true
+          },
           "es": {
             "$ref": "#/components/schemas/ExploreSubject"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CourseVideo": {
+        "type": "object",
+        "properties": {
+          "cvId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "videoPath": {
+            "type": "string",
+            "nullable": true
+          },
+          "heading": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
